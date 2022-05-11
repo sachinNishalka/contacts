@@ -1,0 +1,6 @@
+* fetching data from API
+1. DOM manipulation
+2. React Hooks
+* use effect hook
+3. React Props
+var hasName = (name === 'true') ? 'Y' :'N';
